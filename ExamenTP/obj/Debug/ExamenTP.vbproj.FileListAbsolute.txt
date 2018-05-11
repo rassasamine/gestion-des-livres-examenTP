@@ -1,0 +1,11 @@
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\bin\Debug\ExamenTP.exe.config
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\bin\Debug\ExamenTP.exe
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\bin\Debug\ExamenTP.pdb
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\bin\Debug\ExamenTP.xml
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\obj\Debug\ExamenTP.vbprojResolveAssemblyReference.cache
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\obj\Debug\ExamenTP.Form1.resources
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\obj\Debug\ExamenTP.Resources.resources
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\obj\Debug\ExamenTP.vbproj.GenerateResource.Cache
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\obj\Debug\ExamenTP.exe
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\obj\Debug\ExamenTP.xml
+c:\users\emine 'hussoka' rass\documents\visual studio 2017\Projects\ExamenTP\ExamenTP\obj\Debug\ExamenTP.pdb
